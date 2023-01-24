@@ -1,2 +1,2 @@
 # clase-git-test
-odigo clase GIT
+Codigo clase GIT
